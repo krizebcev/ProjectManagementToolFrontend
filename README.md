@@ -1,7 +1,7 @@
 # ProjectManagementToolFrontend
 
 ### Create a new project
-<img alt="Tok podataka" src="https://github.com/krizebcev/ProjectManagementToolFrontend/blob/master/readme_create_project.jpg">
+<img alt="Create a new project" src="https://github.com/krizebcev/ProjectManagementToolFrontend/blob/master/readme_pics/readme_create_project.jpg">
 
 ### Dashboard
-<img alt="Tok podataka" src="https://github.com/krizebcev/ProjectManagementToolFrontend/blob/master/readme_project_dashboard.jpg">
+<img alt="Dashboard" src="https://github.com/krizebcev/ProjectManagementToolFrontend/blob/master/readme_pics/readme_project_dashboard.jpg">
