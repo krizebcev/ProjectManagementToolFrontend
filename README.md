@@ -1,4 +1,4 @@
-# ProjectManagementToolFrontend
+# Project Management Tool Frontend
 
 ### Create a new project
 <img alt="Create a new project" src="https://github.com/krizebcev/ProjectManagementToolFrontend/blob/master/readme_imgs/readme_create_project.jpg">
